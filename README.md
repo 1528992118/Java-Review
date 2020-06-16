@@ -12,6 +12,6 @@ Java复习随笔
 
 # Features
 
-### 基础篇 [传送门](https://github.com/1528992118/Document/blob/master/Enjoyor-Springboot%20%E6%A1%86%E6%9E%B6.md)
+### 基础篇 [传送门](https://github.com/1528992118/Java-Review/blob/master/Java%E5%9F%BA%E7%A1%80%E7%AF%87.md)
 ### 常用框架篇（待续）
 ### 中间件篇（待续）
